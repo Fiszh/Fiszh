@@ -12,5 +12,3 @@ Right now, I’m mainly focused on [YAUTO](https://github.com/Fiszh/YAUTO), a Tw
 Not too long ago, I also launched my website: [unii.dev](https://unii.dev/)
 
 <3
-
- ![https://unii.dev/](https://img.shields.io/badge/Website-unii.dev-9cf) ![YAUTO](https://img.shields.io/badge/YAUTO-Twitch%20Overlay-blue)
