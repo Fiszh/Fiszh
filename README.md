@@ -13,8 +13,10 @@ I decided to make UChat after discovering a way to handle zero-width emotes whil
 Right now, I’m mainly focused on [UChat](https://github.com/Fiszh/UChat), a Twitch chat overlay.
 [Click here to set up your own overlay](https://chat.unii.dev/)
 
-The first versions of UChat were hosted on a GitHub static website, which was pretty limiting.
+The first versions of UChat was hosted on a GitHub static website, which was pretty limiting.
 Now, with [unii.dev](https://unii.dev/), there are way fewer limits, and I can push much better updates.
+
+Learning Svelte (Nov 21 2025)
 
 If you like my work, you can support me here: [Buy Me a Coffee](https://buymeacoffee.com/jzlnkf5qgo)
 
